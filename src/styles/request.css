@@ -1,0 +1,20 @@
+.button {
+    background-color: salmon;
+    border: solid;
+    color: white;
+    margin: 22px;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+#container {
+    border: tomato 3px solid
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+}

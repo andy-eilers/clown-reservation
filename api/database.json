@@ -1,0 +1,33 @@
+{
+  "clowns": [],
+  "gigs": [],
+  "reservations": [
+    {
+      "parentName": "Karen",
+      "childName": "Damian",
+      "guestNum": "666",
+      "address": "99 Hellfire Way",
+      "partyDate": "2021-11-12",
+      "partyDuration": "2",
+      "id": 2
+    },
+    {
+      "parentName": "Joe",
+      "childName": "Momma",
+      "guestNum": 9,
+      "address": "82 Main St",
+      "partyDate": "2021-11-18",
+      "partyDuration": "8",
+      "id": 4
+    },
+    {
+      "parentName": "Paloma",
+      "childName": "Diego",
+      "guestNum": 15,
+      "address": "Santa Cruz",
+      "partyDate": "2021-12-09",
+      "partyDuration": "3",
+      "id": 5
+    }
+  ]
+}
